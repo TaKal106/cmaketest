@@ -1,0 +1,5 @@
+/home/zqh/project/cmaketest/test3/build/CMakeFiles/edit_cache.dir
+/home/zqh/project/cmaketest/test3/build/CMakeFiles/rebuild_cache.dir
+/home/zqh/project/cmaketest/test3/build/bin/CMakeFiles/hello.dir
+/home/zqh/project/cmaketest/test3/build/bin/CMakeFiles/edit_cache.dir
+/home/zqh/project/cmaketest/test3/build/bin/CMakeFiles/rebuild_cache.dir

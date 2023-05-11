@@ -1,0 +1,13 @@
+/home/zqh/project/cmaketest/build/CMakeFiles/edit_cache.dir
+/home/zqh/project/cmaketest/build/CMakeFiles/rebuild_cache.dir
+/home/zqh/project/cmaketest/build/CMakeFiles/list_install_components.dir
+/home/zqh/project/cmaketest/build/CMakeFiles/install.dir
+/home/zqh/project/cmaketest/build/CMakeFiles/install/local.dir
+/home/zqh/project/cmaketest/build/CMakeFiles/install/strip.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/hello.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/edit_cache.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/rebuild_cache.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/list_install_components.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/install.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/install/local.dir
+/home/zqh/project/cmaketest/build/bin/CMakeFiles/install/strip.dir

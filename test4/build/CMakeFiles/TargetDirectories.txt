@@ -1,0 +1,3 @@
+/home/zqh/project/cmaketest/test4/build/CMakeFiles/camera_calib.dir
+/home/zqh/project/cmaketest/test4/build/CMakeFiles/edit_cache.dir
+/home/zqh/project/cmaketest/test4/build/CMakeFiles/rebuild_cache.dir
